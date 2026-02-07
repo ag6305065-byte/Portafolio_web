@@ -764,11 +764,11 @@ input[type="file"] {
 }
 
 .carousel-container {
-     position: relative; 
+    position: relative;
     width: 100%;
     max-width: 1600px;
     margin: 0 auto;
-    z-index: 1; 
+    z-index: 1;
 }
 
 .carousel-title {
